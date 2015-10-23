@@ -1,0 +1,8 @@
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\hydraRemoteControl\hydraRemoteControl\bin\Release\hydraRemoteControl.exe.config
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\hydraRemoteControl\hydraRemoteControl\bin\Release\hydraRemoteControl.exe
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\hydraRemoteControl\hydraRemoteControl\bin\Release\hydraRemoteControl.pdb
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\hydraRemoteControl\hydraRemoteControl\obj\Release\hydraRemoteControl.frmHydraController.resources
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\hydraRemoteControl\hydraRemoteControl\obj\Release\hydraRemoteControl.Properties.Resources.resources
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\hydraRemoteControl\hydraRemoteControl\obj\Release\hydraRemoteControl.csproj.GenerateResource.Cache
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\hydraRemoteControl\hydraRemoteControl\obj\Release\hydraRemoteControl.exe
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\hydraRemoteControl\hydraRemoteControl\obj\Release\hydraRemoteControl.pdb
