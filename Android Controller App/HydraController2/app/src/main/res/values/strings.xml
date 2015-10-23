@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HydraController</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_paired_devices">Get Paired Devices</string>
+    <string name="title_activity_controller">Controller</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="manualMode">OFF</string>
+    <string name="UpButton">Up button</string>
+    <string name="DownButton">Down button</string>
+    <string name="LeftButton">Left button</string>
+    <string name="RightButton">Right button</string>
+    <string name="settings">Settings</string>
+    <string name="back">Back</string>
+</resources>
